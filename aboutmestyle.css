@@ -20,3 +20,16 @@ p {
 ul {
 	font-family: 'Montserrat', sans-serif;
 }
+
+.nav-bar {
+	float: right;
+	margin-left: 100px;
+	padding: 20px;
+	font-family: 'Montserrat', sans-serif;
+	border: 5px solid purple;
+}
+
+#main-container {
+	width: 400px;
+	padding: 10px;
+}
